@@ -21,6 +21,7 @@ Using the Pandas groupby() function with the count() and sum() methods on PyBer 
   **Deliverable 2:** A multiple-line chart of total fares for each city type <br>
 
 Using your Pandas skills and two new functions, pivot() andresample(), create a multiple-line graph that shows the total fares for each week by city type.
+
  ![Alt text](https://github.com/f-marquez/Module_5/blob/main/Deliverable2.png)
 ## Summary: 
   **Deliverable 3:** 
