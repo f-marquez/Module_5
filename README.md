@@ -16,11 +16,14 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
   **Deliverable 1:** A ride-sharing summary DataFrame by city type <br>
   
 Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, get the total number of rides, total number of drivers, and the total fares for each city type. Then, calculate the average fare per ride and average fare per driver for each city type. Finally, add this data to a new DataFrame, then format the columns.
+![Alt text](https://github.com/f-marquez/Module_5/blob/main/Deliverable1.png)
 
   **Deliverable 2:** A multiple-line chart of total fares for each city type <br>
-  
-Using your Pandas skills and two new functions, pivot() andresample(), create a multiple-line graph that shows the total fares for each week by city type.
 
+Using your Pandas skills and two new functions, pivot() andresample(), create a multiple-line graph that shows the total fares for each week by city type.
+ ![Alt text](https://github.com/f-marquez/Module_5/blob/main/Deliverable2.png)
 ## Summary: 
-  **Deliverable 3:** A written report for the PyBer analysis (README.md)
+  **Deliverable 3:** 
+
+A written report for the PyBer analysis (README.md)
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
