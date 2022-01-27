@@ -33,8 +33,5 @@ Based on the results, provide three business recommendations to the CEO for addr
 
 - **The costs for using PyBer is higher in rural cities than urban cities.**  This could discourage potential riders from rural areas from using PyBer given the high average fare rate. 
 
-* Drivers in rural cities are earning more than drivers in urban cities because there are less drivers available than in the city
+- Drivers in rural cities are earning more than drivers in urban cities because there are less drivers available than in the city
 
-* There is an another opportunity for further analysis to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities. Perhaps, travel distance is a key factor.
-
-* Overall, PyBer ride-sharing services significantly differ in rural, suruban, and urban cities given the number of rides, drivers, and fares. Data supports that there is higher usage of PyBer ride-sharing services in urban cities.
