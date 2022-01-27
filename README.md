@@ -28,3 +28,13 @@ Using your Pandas skills and two new functions, pivot() andresample(), create a 
 
 A written report for the PyBer analysis (README.md)
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+- **The majority of PyBer's revenue occurs in urban cities** We can that there is a higher usage of PyBer ride-sharing in urban cities therefore we are gonna find more drivers located in urban cities than rural cities.
+
+- **The costs for using PyBer is higher in rural cities than urban cities.**  This could discourage potential riders from rural areas from using PyBer given the high average fare rate. 
+
+* Drivers in rural cities are earning more than drivers in urban cities because there are less drivers available than in the city
+
+* There is an another opportunity for further analysis to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities. Perhaps, travel distance is a key factor.
+
+* Overall, PyBer ride-sharing services significantly differ in rural, suruban, and urban cities given the number of rides, drivers, and fares. Data supports that there is higher usage of PyBer ride-sharing services in urban cities.
